@@ -1,0 +1,3 @@
+const accessToken =
+    "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjNlYzIyODllMjc5NmQ1YmQ5ODdjZTI0IiwiZW1haWwiOiJvbGZhLnNlbG1pQGVzcHJpdC50biJ9LCJpYXQiOjE2ODEwMDY1MDZ9.VzMVKdKFJZLGZUn_wQRWLMwml67wFOp3_2Kw53z2TTU";
+export default accessToken;
